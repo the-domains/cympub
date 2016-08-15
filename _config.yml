@@ -1,4 +1,3 @@
-layout_spectrum: 0.41286232345737517
 typography_spectrum: 0.031650587217882276
 color:
   brandStrength: 0.7041024789214134
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.41286232345737517
 name: CYMPUB
+title: 도서출판 초여명
