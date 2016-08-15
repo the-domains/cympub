@@ -6,9 +6,9 @@ color:
   saturation: 0.6387172101531178
   rhythmicContrast: 0.06821105256676674
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: CYMPUB
